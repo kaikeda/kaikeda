@@ -11,6 +11,7 @@ Building products from 0→1 and scaling with engineering & business alignment
 - Experienced as Tech Lead, PdM, and Head of Engineering
 - Leading product development aligned with business strategy and investment decisions
 - Hands-on experience in AI / data-driven product development (forecasting, optimization)
+- Experience in applying ML to real-world business problems
 - JDLA Deep Learning for ENGINEER
 
 ---
@@ -45,10 +46,10 @@ Building products from 0→1 and scaling with engineering & business alignment
 
 ## Tech Stack
 
-- Languages: Python (data / ML), Ruby (product development)
+- Languages: Python
 - ML / Data: XGBoost, forecasting, optimization
-- Infrastructure: AWS, Docker
-- Development: Agile / Scrum, Product Management
+- Infrastructure: AWS
+- Product: Product Management (strategy, prioritization, roadmap)
 
 ---
 
@@ -57,6 +58,7 @@ Building products from 0→1 and scaling with engineering & business alignment
 - Prioritizing incremental system evolution over full rewrites
 - Aligning product strategy with engineering decisions
 - Applying AI/ML to real-world business constraints
+- The hardest part of AI is not modeling, but defining the right problem under real constraints
 
 ---
 
